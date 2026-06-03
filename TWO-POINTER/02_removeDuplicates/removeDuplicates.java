@@ -21,6 +21,3 @@ public class removeDuplicates {
         }
     }
 }
-//1:-  i = 2, j = 2 false
-//2:- i = 2, j = 3   true i++ i = j  till++ j++ ;
-        
