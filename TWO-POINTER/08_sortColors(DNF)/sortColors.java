@@ -22,7 +22,7 @@ public class sortColors {
             if(arr[mid] == 0){
                 int temp = arr[mid];
                 arr[mid] = arr[low];
-                arr[mid] = temp;
+                arr[low] = temp;
                 mid++;
                 low++;
             }
