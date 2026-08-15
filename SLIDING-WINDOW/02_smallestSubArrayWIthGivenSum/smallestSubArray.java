@@ -1,4 +1,3 @@
-package smallestSubArrayWIthGivenSum;
 public class smallestSubArray{
     public static void main(String[] args) {
         int arr[] = {2, 1, 5, 2, 3, 2};
