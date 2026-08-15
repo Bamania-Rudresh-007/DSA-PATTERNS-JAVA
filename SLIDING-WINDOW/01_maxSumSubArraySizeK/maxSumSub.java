@@ -1,4 +1,3 @@
-package maxSumSubArraySizeK;
 public class maxSumSub{
     public static void main(String args[]){
 
